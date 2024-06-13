@@ -17,7 +17,9 @@ public class GetCategoryQueryHandler
         var values = _context.Categories.Select(x => new GetCategoryQueryResult()
         {
             CategoryId = x.CategoryId,
+            CategoryName = x.CategoryName
         });
+
         return values.ToList();
     }
 

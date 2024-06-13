@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\METEHAN\Desktop\.Net Kursu- Murat Yücedağ\CQRS\CQRS
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/METEHAN/Desktop/.Net Kursu- Murat Yücedağ/CQRS/CQRS/Views/Category/CategoryList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/METEHAN/Desktop/.Net Kursu- Murat Yücedağ/CQRS/CQRS/Views/Category/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/METEHAN/Desktop/.Net Kursu- Murat Yücedağ/CQRS/CQRS/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

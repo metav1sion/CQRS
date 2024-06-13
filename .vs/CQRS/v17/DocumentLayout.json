@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|c:\\users\\metehan\\desktop\\.net kursu- murat y\u00FCceda\u011F\\cqrs\\cqrs\\cqrsdesignpattern\\handlers\\categoryhandlers\\getcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\cqrsdesignpattern\\handlers\\categoryhandlers\\getcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|c:\\users\\metehan\\desktop\\.net kursu- murat y\u00FCceda\u011F\\cqrs\\cqrs\\cqrsdesignpattern\\handlers\\categoryhandlers\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\cqrsdesignpattern\\handlers\\categoryhandlers\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|c:\\users\\metehan\\desktop\\.net kursu- murat y\u00FCceda\u011F\\cqrs\\cqrs\\cqrsdesignpattern\\handlers\\categoryhandlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\cqrsdesignpattern\\handlers\\categoryhandlers\\createcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|c:\\users\\metehan\\desktop\\.net kursu- murat y\u00FCceda\u011F\\cqrs\\cqrs\\cqrsdesignpattern\\command\\categorycommands\\removecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\cqrsdesignpattern\\command\\categorycommands\\removecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|c:\\users\\metehan\\desktop\\.net kursu- murat y\u00FCceda\u011F\\cqrs\\cqrs\\cqrsdesignpattern\\handlers\\categoryhandlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\cqrsdesignpattern\\handlers\\categoryhandlers\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|c:\\users\\metehan\\desktop\\.net kursu- murat y\u00FCceda\u011F\\cqrs\\cqrs\\cqrsdesignpattern\\handlers\\producthandlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1030C172-D1F3-4332-82A4-20DCBE80FBE2}|CQRS\\CQRS.csproj|solutionrelative:cqrs\\cqrsdesignpattern\\handlers\\producthandlers\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RemoveCategoryCommand.cs",
-              "DocumentMoniker": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Command\\CategoryCommands\\RemoveCategoryCommand.cs",
-              "RelativeDocumentMoniker": "CQRS\\CQRSDesignPattern\\Command\\CategoryCommands\\RemoveCategoryCommand.cs",
-              "ToolTip": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Command\\CategoryCommands\\RemoveCategoryCommand.cs",
-              "RelativeToolTip": "CQRS\\CQRSDesignPattern\\Command\\CategoryCommands\\RemoveCategoryCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\ProductHandlers\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\CQRSDesignPattern\\Handlers\\ProductHandlers\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\ProductHandlers\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "CQRS\\CQRSDesignPattern\\Handlers\\ProductHandlers\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T19:43:14.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-06-13T17:07:00.194Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetCategoryQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryQueryHandler.cs",
-              "RelativeDocumentMoniker": "CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryQueryHandler.cs",
-              "ToolTip": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryQueryHandler.cs",
-              "RelativeToolTip": "CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryQueryHandler.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAABAAAA",
+              "Title": "GetCategoryByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryByIdQueryHandler.cs",
+              "RelativeToolTip": "CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\GetCategoryByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T19:30:37.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
-              "RelativeToolTip": "CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\UpdateCategoryCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T19:41:08.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateCategoryCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
-              "RelativeDocumentMoniker": "CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
-              "ToolTip": "C:\\Users\\METEHAN\\Desktop\\.Net Kursu- Murat Y\u00FCceda\u011F\\CQRS\\CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
-              "RelativeToolTip": "CQRS\\CQRSDesignPattern\\Handlers\\CategoryHandlers\\CreateCategoryCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T19:38:54.159Z",
+              "WhenOpened": "2024-06-13T17:05:46.332Z",
               "EditorCaption": ""
             }
           ]

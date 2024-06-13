@@ -1,0 +1,18 @@
+﻿CQRS
+
+*Read-Write
+
+Read-> Select, GetById
+Write-> Insert, Delete, Update
+
+*Void-Return
+
+*Commands -> Objenin ya da sistemin durumunu değiştirir.
+*Queries -> Sadece sonucu geriye döner herhangi bir objenin veya sistemin durumunu değiştirmez.
+
+GENEL KLASÖR YAPISI:
+
+Commands -> Ekleme,silme,güncelleme propertyleri tutuyor.
+Queries -> Parametre tutuyor.
+Handlers -> CRUD işlemleri gerçekleşiyor.
+Results -> Listeleme işlemleri yapılıyor. Get ismi ile adlandırılır.
